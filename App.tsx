@@ -96,7 +96,7 @@ const App: React.FC = () => {
     };
 
     return (
-        <div className="bg-slate-100 min-h-screen font-sans">
+        <div className="bg-white min-h-screen font-sans">
             <Toaster position="top-center" />
             <Header 
                 companyDetails={companyDetails} 
